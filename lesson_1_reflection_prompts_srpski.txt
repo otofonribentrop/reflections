@@ -1,0 +1,25 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Pomocu toga mogu mnogo brze da pronadjem greske u kodu. Alternativa bi bila da pregledam cijeli kod liniju po liniju.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git radi sa sistemima koji rade na vise medjusobnoyavisnih fajlova, dok google decs barata sa pojedinacnim fajlovima.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log mi prikazuje sve komitove sa nazivima, git diff prikazuje razliku izmedju dva komita.
+
+How might using version control make you more confident to make changes that could break something?
+
+Kakvu god promjenu da napravim uvijek sam siguran da mogu lako da se vratim na onaj commit u kome je mod kod ispravan, ili u nekoj
+logickoj tacki prije te promjene.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Zelim da koristim git uz rad na mom projektu, da bih mogao lakse da se krecem kroz razlicite verzije svog projekta.
+
+
+

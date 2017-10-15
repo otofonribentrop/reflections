@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Kada inicijalizujem repositori git kreira .git direktorijum u kome cuva istoriju izmjena mojih komitova.
+Ovo mi je potrebno da bih mogao da stanje svojih fajlova vracam na odredjeni komit u vremenu.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area mi daje mogucnost da dodajem pojedinacne fajlove iz working direktorija u komit, dakle da biram sadrzaj koji
+cu da komitujem. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Uvijek mogu da provjerim razliku izmedju working dir. i stagea i da prije komitovanja vidim da li su te razlike jedna logicka cjelina ili ne.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Pomazu kod kreiranja eksperimentalnih promjena u kodu, i kada zelim da imam nekoliko razlicitih funkcionalnih verzija koda.
+
+How do the diagrams help you visualize the branch structure?
+
+Pomazu mi da jasno vidim kako se branchevi granaju i koji su komiti odakle dosegljivi (reachable)
