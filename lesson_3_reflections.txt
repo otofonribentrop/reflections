@@ -5,3 +5,10 @@ Kada na projektu radi vise ljudi ili kada jedna osoba pristupa projektu sa vise 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Zato sto zelim da promjene koje prezentujem drugima budu neka zavrsena cjelina.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks je kopija tudjeg repozitorija na mom git hub nalogu. Koristim ga kada hocu da cloniram tudji kod i da sam pravim izmjene sa sebe, a nemam pravo da to radim direktno na tom repozitoriju.
+Clone je kopija tudjem repozitorija na mom lokalnom racunaru. Koristim ga kada imam prava da radim na tudjem kodu i kada mogu da radim komite sa mog racunara na taj tudji repozitorij.
+Branches predstavljaju razlicite razvojne putanje nekoga koda i koristim ih kada pravim neke izmjene u kodu pri cemu da sacuvam staru verizju koda kao drugi razvojni put te stare verzije koda.
+
