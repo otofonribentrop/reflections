@@ -19,3 +19,11 @@ Pomazu kod kreiranja eksperimentalnih promjena u kodu, i kada zelim da imam neko
 How do the diagrams help you visualize the branch structure?
 
 Pomazu mi da jasno vidim kako se branchevi granaju i koji su komiti odakle dosegljivi (reachable)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Rezultat je skup svih izmjena koje su uradjene u dvije grane u odosu na poceetnu verziju.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatsko mergovanje je brze, ali ukoliko su u pitanju konflikte izmjene bice netacno i podlozno greskama.
